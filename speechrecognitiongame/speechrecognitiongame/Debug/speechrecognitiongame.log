@@ -1,0 +1,5 @@
+﻿  speechrecognition.cpp
+c:\program files (x86)\windows kits\8.1\include\um\sphelper.h(1319): warning C4996: 'GetVersionExA': 被声明为已否决
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(433): note: 参见“GetVersionExA”的声明
+  speechrecognitiongame.vcxproj -> C:\Users\DimonOuYang\Desktop\speechrecognitiongame\Debug\speechrecognitiongame.exe
+  speechrecognitiongame.vcxproj -> C:\Users\DimonOuYang\Desktop\speechrecognitiongame\Debug\speechrecognitiongame.pdb (Full PDB)

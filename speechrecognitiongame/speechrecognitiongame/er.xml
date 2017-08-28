@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GRAMMAR LANGID="804">
+  <DEFINE>
+    <ID NAME="CMD" VAL="10"/>
+    </DEFINE>
+  <RULE NAME="COMMAND" ID="CMD" TOPLEVEL="ACTIVE">
+    <L>
+      <P>旋风刀</P>
+      <P>大风吹</P>
+      <P>雷斩</P>
+      <P>破防</P>
+      <P>难寻</P>
+      <P>充气</P>
+      <P>跳跃</P>
+      <P>趴下</P>
+      <P>前进</P>
+      <P>后退</P>
+      <P>大猛是谁</P>
+      <P>你是谁</P>
+      <P>你是笨蛋</P>
+      <P>你是蠢猪</P>
+      <P>新年快乐</P>
+      <P>打开</P>
+      <P>关闭</P>
+      <P>英杰</P>
+      <P>你好</P>
+      </L>
+    </RULE>
+  </GRAMMAR>

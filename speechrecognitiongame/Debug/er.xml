@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GRAMMAR LANGID="804">
+  <DEFINE>
+    <ID NAME="CMD" VAL="10"/>
+    </DEFINE>
+  <RULE NAME="COMMAND" ID="CMD" TOPLEVEL="ACTIVE">
+    <L>
+      <P>我是学霸</P>
+      <P>清华土匪</P>
+      <P>传智播客</P>
+      <P>天下无双</P>
+      <P>给我上</P>
+      <P>给我下</P>
+      <P>给我左</P>
+      <P>给我右</P>
+      <P>打开企鹅</P>
+      <P>关闭企鹅</P>
+      <P>显示</P>
+      <P>隐藏</P>
+      <P>谭胜是谁</P>
+      <P>你是谁</P>
+      <P>你是笨蛋</P>
+      <P>你是蠢猪</P>
+      <P>你很好</P>
+      <P>中秋快乐</P>
+      </L>
+    </RULE>
+  </GRAMMAR>
